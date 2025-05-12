@@ -8,7 +8,7 @@ int main() {
     float Populacao1 = 9539029.0;
     float Area1 = 98312.0;
     float PIB1 = 288.67;
-    int Pontos_Turisticos1 = 403;
+    int Pontos_Turisticos1 = 406;
 
     printf("Carta: %d\n", Carta1);
     printf("Estado: %s\n", Estado1);
